@@ -6,4 +6,4 @@ pyssml
 oauth2client
 PyOpenSSL
 pymongo
-discord_components
+discord_components<2.0.0
